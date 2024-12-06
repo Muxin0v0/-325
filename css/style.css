@@ -1,0 +1,38 @@
+*{
+    padding:0;
+    margin:0;
+}
+header ul{
+    position:absolute;
+    right:5vw;
+    top: 0;
+    line-height:80px;
+}
+header li{
+    display:inline;
+    margin-right: 10vw;
+}
+header a{
+    color:aliceblue;
+    text-decoration: none;
+    font-size: 1.25em;
+}
+header a:hover{
+    text-decoration: underline;
+}
+header{
+    background-color: #000000;
+    height: 80px;
+    width:100%;
+}
+h1{
+    color:white;
+}
+.one{
+    background-color: antiquewhite;
+    color: white;
+    height:140vh;
+    background-image: url(../images/4b91-302f74ab847d7d41694e0b45949f9f1f.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
